@@ -1,2 +1,2 @@
 # java-angular-postgresql
-With Ansible
+With Ansible + Docker volume
